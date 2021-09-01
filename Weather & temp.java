@@ -2,7 +2,7 @@ package com.kamesh;
 
 public class Main {
     public static void main(String[] args) {
-        int temp=35;
+        int temp=65;
         if(temp>30){
             System.out.println("It's a hot day");
             System.out.println("Drink plenty of water");
