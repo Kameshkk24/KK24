@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         int r, sum = 0, temp;
-        int n = 5651;
+        int n = 1000;
         temp = n;
         {
             while(n >= 0) ;
